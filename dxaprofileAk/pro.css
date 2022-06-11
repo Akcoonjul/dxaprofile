@@ -141,9 +141,10 @@
     color: #006af5;
 }
 .marquee {
-background-color :Grey;
+background-color :red;
 } 
-		.blue{    	 	background:
+.blue{    	 	
+    background:
 
     			 linear-gradient(to right, #00B2FF, #0066FF);
 
