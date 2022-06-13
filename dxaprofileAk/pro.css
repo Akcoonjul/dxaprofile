@@ -156,4 +156,7 @@ background-color :red;
     .bg-overlay {
         height:100%;
     }
+    .name{
+        font-size:4vw;
+    }
 }
