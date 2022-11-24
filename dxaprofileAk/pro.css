@@ -122,7 +122,18 @@
     box-shadow: none;
     font-size: 14px;
 }
-
+.btn-follow class:nth-child(4){
+    border-radius: 45px;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    width: 120%;
+    color: #ffffff;
+    background-color: #000000;
+    background: linear-gradient(to right, #00B2FF, #0066FF);
+    border: 2px solid #ffffff;
+    box-shadow: none;
+    font-size: 14px;
+}
 .btn-follow:hover, .btn-follow:active {
     color: #ffffff;
     background-color: #000000;
