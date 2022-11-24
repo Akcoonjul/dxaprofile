@@ -4,9 +4,10 @@
 		<title>Dxateam Contact</title>
 	</head>
 	<script>
-		$('#redi').load(function(){
-			document.location ="https://akcoonjul.github.io/dxaprofile/";
-		});
+		window.frames["myFrame"].contentWindow.document
+      .getElementById("myForm")
+      .onsubmit = function() { 
+          alert("Submit !");
 	</script>
 
 	<frameset cols="">
